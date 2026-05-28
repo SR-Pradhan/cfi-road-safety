@@ -14,8 +14,6 @@ Automated CV pipeline for Indian dashcam video analysis: detects 5 traffic viola
 
 ---
 
----
-
 ## Quick Start
 
 ```bash
